@@ -1,2 +1,4 @@
 # ignore ALL .sh files
 *.sh
+*.png
+*.webp
